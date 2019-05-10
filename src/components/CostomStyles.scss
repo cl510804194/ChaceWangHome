@@ -1,0 +1,30 @@
+ .news-title {
+   margin: 16px auto 0 auto;
+   text-align: center;
+   font-size: 31px;
+ }
+
+ .news-type {
+   display: inline-block;
+   width: 96px;
+   height: 32px;
+   margin-right: 30px;
+   line-height: 32px;
+   font-size: 18px;
+   color: #000;
+   text-align: center;
+   cursor: pointer;
+ }
+
+ .news-type-active {
+   display: inline-block;
+   width: 96px;
+   height: 32px;
+   margin-right: 30px;
+   background-color: #1676f9;
+   line-height: 32px;
+   font-size: 18px;
+   color: #fffdff;
+   text-align: center;
+   cursor: pointer;
+ }
